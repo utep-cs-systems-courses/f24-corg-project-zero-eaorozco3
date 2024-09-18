@@ -25,7 +25,6 @@ void print_triangle(int leftCol, int size)
     putchar('\n');
   }
 }
-
 // Prints an arrow of specific length and arrowhead size.
 void print_arrow(int length, int size) {
   int reachSize = 1;
